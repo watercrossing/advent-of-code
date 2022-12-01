@@ -4,11 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-notebook = "*"
-ipywidgets = "*"
+ipykernel = "*"
 matplotlib = "*"
+browsercookie = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
 [requires]
-python_version = "3.9"
+python_version = "3.10"

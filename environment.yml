@@ -1,4 +1,6 @@
 dependencies:
-  - python=3.9
-  - notebook
+  - python=3.10
+  - ipykernel
   - ipywidgets
+  - matplotlib
+  - browsercookie
